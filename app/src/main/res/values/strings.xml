@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sensorteka</string>
+    <string name="no_proximity_sensor">No hay sensor de proximidad en su dispositivo</string>
+    <string name="proximityOn">Sensor de Proximidad: ON</string>
+    <string name="proximityOff">Sensor de Proximidad: OFF</string>
+    <string name="Proximidad">Sensor Proximidad</string>
+    <string name="Giroscopio">Giroscopio</string>
+    <string name="Rotacion">Rotacion Vectorial</string>
+    <string name="MapaSensor">Mapa con Sensores</string>
+    <string name="no_magnetic">No se encontro el sensor magnetico</string>
+    <string name="no_accelerometer">No se encontro acelerometro</string>
+    <string name="access_token">Aqui va su token de mapbox</string>
+    <string name="no_gyroscope_sensor">No se detecto Giroscopio en su Dispositivo</string>
+    <string name="txt_proximity_instruction">Pase su mano frente a su dispositivo para detectar movimiento</string>
+    <string name="txt_gyroscope_instruction">Mueve tu dispositivo hacia la derecha o hacia la izquierda</string>
+    <string name="txt_rotation_izq">Ha movido el dispositivo hacia la Izquierda</string>
+    <string name="txt_rotation_der">Ha movido el dispositivo hacia la Derecha</string>
+    <string name="rotation_center">El dispositivo se encuentra centrado</string>
+    <string name="rotation_izq">El dispositivo se roto mas de 45° a la Izquierda</string>
+    <string name="rotation_der">El dispositivo se roto mas de 45° a la Derecha</string>
+    <string name="txt_rotaton_instruction">Prueba a girar tu dispositivo a la derecha e izquierda</string>
+</resources>

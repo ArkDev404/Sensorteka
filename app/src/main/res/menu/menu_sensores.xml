@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/SensorProximidad"
+        android:title="@string/Proximidad"></item>
+
+    <item android:id="@+id/SensorGiroscopio"
+        android:title="@string/Giroscopio"></item>
+
+    <item android:id="@+id/SensorRotacion"
+        android:title="@string/Rotacion"></item>
+
+    <item android:id="@+id/SensorMapa"
+        android:title="@string/MapaSensor"></item>
+
+</menu>
