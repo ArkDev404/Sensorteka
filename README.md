@@ -18,6 +18,7 @@ En esta aplicación usted podra manipular algunos de los sensores con los que cu
 
 ### Sensor de Proximidad en Acción
 En esta pantalla se detecta si el usuario coloca algo frente al dispositivo, si es asi el telefono responde con una vibración y una notificacion en TextView en la parte inferior
+
 ![image](screenshots/Proximidad_on.PNG)
 
 ### Sensor Giroscopio
